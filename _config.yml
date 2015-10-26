@@ -13,15 +13,8 @@ paginate: 1
 navigation:
  - title: Home
    url: /index.html
-# - title: About
-#   url: /about
-# - title: Contact
-#   url: /contact
 
 social:
    github: tsouzar
-#   twitter: brianmaierjr
    facebook: TiagoSRibeiro
    email: tsr@tiagosr.com
-
-#google_analytics: "UA-58263416-1"
