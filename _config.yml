@@ -1,14 +1,14 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           none
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Tiago de Souza
+tagline:             Blog pessoal sobre telecomunicações, programação, tecnologia da informação, etc.
+url:                 http://blog.tiagosr.com
+paginate:            3
 baseurl:             ""
 
 # Assets
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tiago de Souza
+  url:               http://blog.tiagosr.com
+  email:             tsr@tiagosr.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/tsouzar/tsouzar.github.io
