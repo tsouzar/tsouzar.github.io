@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Tiago de Souza
-tagline:             Blog pessoal sobre telecomunicações, programação, tecnologia da informação, etc.
+tagline:             Blog pessoal sobre tecnologia da informação
 url:                 http://blog.tiagosr.com
 paginate:            3
 baseurl:             ""
